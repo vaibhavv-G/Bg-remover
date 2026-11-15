@@ -1,0 +1,6 @@
+{
+  "name": "BGRemover Pro",
+  "description": "AI-powered background removal app that cleanly isolates subjects and exports transparent PNGs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

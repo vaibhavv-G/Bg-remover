@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BGRemover Pro</string>
+    <string name="tagline">Remove Backgrounds. Keep What Matters.</string>
+    <string name="nav_studio">Remover</string>
+    <string name="nav_how_it_works">How It Works</string>
+    <string name="nav_pricing">Pricing</string>
+    <string name="nav_faq">FAQ</string>
+    <string name="hero_headline">Remove Image Backgrounds in Seconds.</string>
+    <string name="hero_subtitle">Create transparent backgrounds instantly with AI. Upload your image and download a clean, professional result.</string>
+    <string name="cta_remove_background">Remove Background</string>
+    <string name="cta_see_how_it_works">See How It Works</string>
+    <string name="error_not_configured">Background removal service is not configured yet. Please configure your API credentials.</string>
+    <string name="copyright_notice">© 2026 BGRemover Pro. All rights reserved.</string>
+</resources>
